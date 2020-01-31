@@ -74,6 +74,13 @@ SQLFlow will love to support as many mainstream ML frameworks and data sources a
 
 Your feedback is our motivation to move on. Please let us know your questions, concerns, and issues by [filing GitHub Issues](https://github.com/sql-machine-learning/sqlflow/issues).
 
+## Resources
+
+- [SQLFlow.org](http://sqlflow.org)
+- [SQLFlow examples](http://sqlflow.org/doc_index/sqlflow_exapmles/)
+- [SQLFlow demo paper](https://arxiv.org/abs/2001.06846)
+- [SQLFlow 知乎专栏](https://zhuanlan.zhihu.com/sqlflow)
+
 ## License
 
 [Apache License 2.0](https://github.com/sql-machine-learning/sqlflow/blob/develop/LICENSE)
